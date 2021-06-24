@@ -1,4 +1,4 @@
-import 'package:flutter_sqlite_demo/models/model.dart';
+import 'package:flutter_todo_urbainians/models/model.dart';
 
 class TodoItem extends Model {
 
