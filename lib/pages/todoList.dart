@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_sqlite_demo/models/todo.dart';
-import 'package:flutter_sqlite_demo/services/db.dart';
+import 'package:flutter_todo_urbainians/models/todo.dart';
+import 'package:flutter_todo_urbainians/services/db.dart';
 import 'package:flutter_time_picker_spinner/flutter_time_picker_spinner.dart';
 import 'package:intl/intl.dart';
 
