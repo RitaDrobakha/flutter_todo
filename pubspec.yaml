@@ -1,0 +1,25 @@
+name: flutter_sqlite_demo
+description: Example project demonstrating how to use Flutter with SQLite
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^1.2.0
+  path_provider: ^1.6.0
+  cupertino_icons: ^0.1.2
+  flutter_datetime_picker: ^1.5.1
+  flutter_time_picker_spinner: ^1.0.6+1
+  date_format: ^2.0.2
+  intl: ^0.17.0
+  flutter_calendar_carousel: ^1.5.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
