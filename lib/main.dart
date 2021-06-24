@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_sqlite_demo/pages/calendar.dart';
-import 'package:flutter_sqlite_demo/services/db.dart';
+import 'package:flutter_todo_urbainians/pages/calendar.dart';
+import 'package:flutter_todo_urbainians/services/db.dart';
 
 void main() async {
 
