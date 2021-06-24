@@ -1,5 +1,4 @@
-name: flutter_sqlite_demo
-description: Example project demonstrating how to use Flutter with SQLite
+name: flutter_todo_urbainians
 version: 1.0.0+1
 
 environment:
